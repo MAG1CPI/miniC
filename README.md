@@ -2,7 +2,7 @@
 
 ## Project Objectives
 
-* Implement a mini compiler for C language
+* Implement a mini compiler for a subset of C language
 
 ## Project Status
 
